@@ -51,7 +51,7 @@ jobs:
                 +tcp_htcp                \
                 +tcp_bbr                 \
                 +tcp_bic                 \
-                +sched_zzmoove      \
+                +sched_zzmoove           \
                 +sched_powersave         \
         2>&1 | tee config.info
     - name: Kernel Build
