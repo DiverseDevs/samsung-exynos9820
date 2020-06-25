@@ -39,8 +39,6 @@ jobs:
                 +morosound               \
                 +boeffla_wl_blocker      \
                 +mass_storage            \
-                +fiops                   \
-                +io_bfq                  \
                 +io_maple                \
                 +io_fiops                \
                 +io_sio                  \
